@@ -6,7 +6,7 @@
 
 ## Steps:
 1. Type in what item is and how much it costs (posibly integrate a scanner)
-2. Have sliding questions to answer
+1. Have sliding questions to answer
   1. A few per purchase
 
 * Checkboxes.
